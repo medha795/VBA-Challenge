@@ -1,5 +1,6 @@
 # VBA-Challenge
 
+
 Sub Calculate_Stock_Stats():
 
 ' variable for current ticker symbol
